@@ -38,7 +38,7 @@
 .task {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 
 .enter-task {
@@ -140,7 +140,7 @@ li > label {
 }
 
 li > input[type="text"] {
-  width: 226px
+  width: 226px;
 }
 
 .delete-img {
@@ -156,19 +156,19 @@ li > input[type="text"] {
 /* Completed */
 
 .name-item {
-  text-decoration: line-through
+  text-decoration: line-through;
   color: #888;
 }
 
 /* Edit Task */
 
 .enter-content {
-  display: none 
+  display: none; 
 }
 
 .visible-content {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 
 .hidden-content {
